@@ -1,0 +1,332 @@
+
+# A
+## adobe
+auth-api.services.adobe.com
+documentcloud.adobe.com
+genuine.adobe.com
+mobiledl.adobe.com
+adobe.com
+adobecc.com
+
+adwords.com
+ib.adnxs.com
+aexp-static.com
+e2875.d.akamaiedge.net
+steamcommunity-a.akamaihd.net
+pesam2-dl.akamaized.net
+
+## amd
+drivers.amd.com
+amd.com
+
+americanexpress.com
+ansible.com
+atlassian.com
+authoritylabs.com
+avast.com
+avcdn.net
+
+# B
+b4x.com
+bankofamerica.com
+bing.com
+bintray.com
+bluemix.net
+sessions.bugsnag.com
+
+# C
+database.clamav.net
+codecanyon.net
+api.coinbase.com
+corel.com
+coursera.com
+coursera.org
+
+## crashlytics
+e.crashlytics.com
+reports.crashlytics.com
+crashlytics.com
+
+crunchify.com
+srv.cutnegative.com
+cyberoam.com
+
+# D
+datacamp.com
+docs.datastax.com
+davidesperalta.com
+
+## dell
+dellupdater.dell.com
+downloads.dell.com
+dell.com
+dellemc.com
+
+demdex.net
+dillinger.io
+districtm.io
+
+## docker
+hub.docker.com
+download.docker.com
+docker.com
+auth.docker.io
+index.docker.io
+registry-1.docker.io
+docker.io
+
+ebay.com
+download.oracle.com.edgekey.net
+emc.com
+
+# E
+## envato
+envato-static.com
+customer.envato.com
+shopfront.envato.com
+envato.com
+
+## epicgames
+epicgames-download1.akamaized.net
+catalog-public-service-prod.ak.epicgames.com
+catalog-public-service-prod06.ol.epicgames.com
+content-controls-prod.ak.epicgames.com
+datarouter-prod.ak.epicgames.com
+entitlement-public-service-prod.ak.epicgames.com
+events-public-service-live.ak.epicgames.com
+fortnite-mm-public-service-live-eu.ak.epicgames.com
+fortnite-mm-public-service-live-me.ak.epicgames.com
+fortnite-public-service-prod.ak.epicgames.com
+fortnite-public-service-prod11.ol.epicgames.com
+fortnitecontent-website-prod.ak.epicgames.com
+friends-public-service-prod.ak.epicgames.com
+launcher-public-service-prod.ak.epicgames.com
+launcher-public-service-prod06.ol.epicgames.com
+library-service.live.use1a.on.epicgames.com
+lightswitch-public-service-prod.ak.epicgames.com
+party-service-prod.ak.epicgames.com
+party-service-prod.ol.epicgames.com
+priceengine-public-service-prod.ak.epicgames.com
+epicgames.com
+
+esignal.com
+loadus.exelator.com
+exp.host
+
+# F
+fabric.io
+filehippo.com
+filehippo.net
+firebaseio.com
+
+## fivem
+mirrors.fivem.net
+runtime.fivem.net
+servers-ingress-live.fivem.net
+servers-live.fivem.net
+
+fiverr.com
+data.flurry.com
+reprintsapi.forrester.com
+freshdesk.com
+rs.fullstory.com
+
+# G
+garmin.com
+geforce.com
+gitlab.com
+gcr.io
+crl.globalsign.net
+
+## google
+ads.google.com
+analytics.google.com
+analytics.google.com
+appengine.google.com
+business.google.com
+business.google.com
+careers.google.com
+classroom.google.com
+clients1.google.com
+clients2.google.com
+clients3.google.com
+clients4.google.com
+clients5.google.com
+clients6.google.com
+clients6.google.com
+console.cloud.google.com
+cloud.google.com
+datastudio.google.com
+design.google.com
+developers.google.com
+domains.google.com
+firebase.google.com
+issuetracker.google.com
+lens.google.com
+ogs.google.com
+pay.google.com
+payments.google.com
+play.google.com
+remotedesktop.google.com
+tagmanager.google.com
+wallet.google.com
+
+googleadservices.com
+
+fcmconnection.googleapis.com
+firebaseremoteconfig.googleapis.com
+firestore.googleapis.com
+footprints-pa.googleapis.com
+geomobileservices-pa.googleapis.com
+growth-pa.googleapis.com
+maps.googleapis.com
+phonedeviceverification-pa.googleapis.com
+playatoms-pa.googleapis.com
+remotedesktop-pa.googleapis.com
+googleapis.com
+
+googleusercontent.com
+
+grafana.com
+graphicriver.net
+gvt2.com
+gyazo.com
+
+# H
+highcharts.com
+howtographql.com
+
+# I
+ibm.com
+ibtimes.co.in
+intel.com
+
+# J
+java.com
+plugins.jetbrains.com
+
+# K
+
+# L
+lenovo.com
+lenovo.com.cn
+lingojam.com
+
+# M
+fpdownload2.macromedia.com
+macromedia.com
+malwarebytes.org
+diagnostics.meethue.com
+
+## microsoft
+ieonline.microsoft.com
+officecdn.microsoft.com
+settings-win.data.microsoft.com
+settings.data.microsoft.com
+
+api.mixpanel.com
+mixpanel.com
+mongodb.com
+mongodb.org
+mookie1.com
+mtb.com
+myteamspeak.com
+
+# N
+now.sh
+images.nvidia.com
+nvidia.com
+
+# O
+onesignal.com
+onetrust.com
+oracle.com
+oraclecloud.com
+api1.origin.com
+origin.com
+
+# P
+paypal.com
+paypalobjects.com
+pixelsquid.com
+poeticoding.com
+exceptions.preyproject.com
+
+# Q
+# R
+radargramer.top
+renesas.com
+
+# S
+sentry.io
+um.simpli.fi
+skrill.com
+snort.org
+solarwinds.com
+sophos.com
+sourceforge.net
+
+# spotify
+api.spotify.com
+dealer.spotify.com
+spclient.wg.spotify.com
+
+specopssoft.com
+spiceworks.com
+
+# T
+talosintelligence.com
+tdesktop.com
+teamviewer.com
+themeforest.net
+support.threattracksecurity.com
+tinyjpg.com
+tinypng.com
+tradingview.com
+typekit.com
+
+# U
+connectivity-check.ubuntu.com
+jobs.ubs.com
+udemy.com
+unity.com
+unity3d.com
+
+# V
+download.virtualbox.org
+visa.com
+dc.services.visualstudio.com
+
+## vmware
+marketplace-download.vmware.com
+partnerweb.vmware.com
+softwareupdate.vmware.com
+hostupdate.vmware.com
+vmware.com
+
+vungle.com
+
+# W
+## warframe
+origin.warframe.com
+api.xb1.warframe.com
+arbiter.xb1.warframe.com
+
+wd.com
+
+## withgoogle
+codingcompetitions.withgoogle.com
+csp.withgoogle.com
+designguidelines.withgoogle.com
+designsprintkit.withgoogle.com
+hire.withgoogle.com
+lenslayers.withgoogle.com
+pair.withgoogle.com
+sitekit.withgoogle.com
+
+wpbakery.com
+
+# X
+# Y
+# Z
+zonealarm.com
